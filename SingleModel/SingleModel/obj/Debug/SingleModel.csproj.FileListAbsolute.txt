@@ -1,0 +1,6 @@
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\SingleModel\SingleModel\bin\Debug\SingleModel.exe.config
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\SingleModel\SingleModel\bin\Debug\SingleModel.exe
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\SingleModel\SingleModel\bin\Debug\SingleModel.pdb
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\SingleModel\SingleModel\obj\Debug\SingleModel.csprojResolveAssemblyReference.cache
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\SingleModel\SingleModel\obj\Debug\SingleModel.exe
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\SingleModel\SingleModel\obj\Debug\SingleModel.pdb

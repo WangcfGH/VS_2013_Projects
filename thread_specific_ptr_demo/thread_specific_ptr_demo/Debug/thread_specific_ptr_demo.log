@@ -1,0 +1,29 @@
+﻿生成启动时间为 2022/1/11 14:39:40。
+     1>项目“E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\thread_specific_ptr_demo\thread_specific_ptr_demo\thread_specific_ptr_demo.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\thread_specific_ptr_demo.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\thread_specific_ptr_demo.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt thread_specific_ptr_demo.cpp
+         thread_specific_ptr_demo.cpp
+     1>e:\wangcfgh\git_code\visual studio 2013 projects\thread_specific_ptr_demo\thread_specific_ptr_demo\thread_specific_ptr_demo.cpp(30): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\time.inl(112) : 参见“localtime”的声明
+     1>e:\wangcfgh\git_code\visual studio 2013 projects\thread_specific_ptr_demo\thread_specific_ptr_demo\thread_specific_ptr_demo.cpp(31): warning C4996: 'asctime': This function or variable may be unsafe. Consider using asctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\time.h(174) : 参见“asctime”的声明
+     1>c:\program files (x86)\microsoft visual studio 12.0\vc\include\xutility(2715): warning C4996: 'std::_Fill_n': Function call with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators'
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\xutility(2701) : 参见“std::_Fill_n”的声明
+                 d:\libraryvc12\boost_1_62_0\boost\random\detail\polynomial.hpp(114): 参见对正在编译的函数 模板 实例化“_OutIt std::fill_n<boost::random::detail::polynomial_ops::digit_t*,size_t,boost::random::detail::polynomial_ops::digit_t>(_OutIt,_Diff,const _Ty &)”的引用
+                 with
+                 [
+                     _OutIt=boost::random::detail::polynomial_ops::digit_t *
+         ,            _Diff=size_t
+         ,            _Ty=boost::random::detail::polynomial_ops::digit_t
+                 ]
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\thread_specific_ptr_demo\Debug\thread_specific_ptr_demo.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\thread_specific_ptr_demo\Debug\thread_specific_ptr_demo.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\thread_specific_ptr_demo\Debug\thread_specific_ptr_demo.lib" /MACHINE:X86 Debug\stdafx.obj
+         Debug\thread_specific_ptr_demo.obj
+         thread_specific_ptr_demo.vcxproj -> E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\thread_specific_ptr_demo\Debug\thread_specific_ptr_demo.exe
+     1>已完成生成项目“E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\thread_specific_ptr_demo\thread_specific_ptr_demo\thread_specific_ptr_demo.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.31

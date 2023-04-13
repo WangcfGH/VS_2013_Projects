@@ -1,0 +1,5 @@
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\Algorithm_C_Plus\Algorithm_C_Plus\bin\Debug\Algorithm_C_Plus.exe.config
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\Algorithm_C_Plus\Algorithm_C_Plus\bin\Debug\Algorithm_C_Plus.exe
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\Algorithm_C_Plus\Algorithm_C_Plus\bin\Debug\Algorithm_C_Plus.pdb
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\Algorithm_C_Plus\Algorithm_C_Plus\obj\Debug\Algorithm_C_Plus.exe
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\Algorithm_C_Plus\Algorithm_C_Plus\obj\Debug\Algorithm_C_Plus.pdb

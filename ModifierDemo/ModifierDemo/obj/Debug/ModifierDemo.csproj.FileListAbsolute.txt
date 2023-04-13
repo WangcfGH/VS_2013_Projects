@@ -1,0 +1,6 @@
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\ModifierDemo\ModifierDemo\bin\Debug\ModifierDemo.exe.config
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\ModifierDemo\ModifierDemo\bin\Debug\ModifierDemo.exe
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\ModifierDemo\ModifierDemo\bin\Debug\ModifierDemo.pdb
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\ModifierDemo\ModifierDemo\obj\Debug\ModifierDemo.csprojResolveAssemblyReference.cache
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\ModifierDemo\ModifierDemo\obj\Debug\ModifierDemo.exe
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\ModifierDemo\ModifierDemo\obj\Debug\ModifierDemo.pdb

@@ -1,0 +1,597 @@
+Sort By Time:
+request402051		cost time is 50323689
+request402051		send count is 373194
+request402051		average time is 134
+
+
+request401008		cost time is 44641829
+request401008		send count is 626380
+request401008		average time is 71
+
+
+request401004		cost time is 12750411
+request401004		send count is 256885
+request401004		average time is 49
+
+
+request401010		cost time is 4172766
+request401010		send count is 200533
+request401010		average time is 20
+
+
+request401007		cost time is 3806371
+request401007		send count is 35932
+request401007		average time is 105
+
+
+request403106		cost time is 2857517
+request403106		send count is 281331
+request403106		average time is 10
+
+
+request402052		cost time is 2323185
+request402052		send count is 61620
+request402052		average time is 37
+
+
+request401005		cost time is 1922847
+request401005		send count is 45527
+request401005		average time is 42
+
+
+request404803		cost time is 1262493
+request404803		send count is 67680
+request404803		average time is 18
+
+
+request404503		cost time is 1130630
+request404503		send count is 327715
+request404503		average time is 3
+
+
+request404903		cost time is 1005195
+request404903		send count is 50457
+request404903		average time is 19
+
+
+request401006		cost time is 886017
+request401006		send count is 36245
+request401006		average time is 24
+
+
+request404921		cost time is 728132
+request404921		send count is 28788
+request404921		average time is 25
+
+
+request403112		cost time is 727419
+request403112		send count is 280801
+request403112		average time is 2
+
+
+request403100		cost time is 620425
+request403100		send count is 76912
+request403100		average time is 8
+
+
+request403103		cost time is 604717
+request403103		send count is 253299
+request403103		average time is 2
+
+
+request404100		cost time is 514433
+request404100		send count is 32022
+request404100		average time is 16
+
+
+request404502		cost time is 427843
+request404502		send count is 151798
+request404502		average time is 2
+
+
+request401800		cost time is 351571
+request401800		send count is 45712
+request401800		average time is 7
+
+
+request402050		cost time is 188191
+request402050		send count is 2667
+request402050		average time is 70
+
+
+request401109		cost time is 99423
+request401109		send count is 3348
+request401109		average time is 29
+
+
+request404804		cost time is 98483
+request404804		send count is 1207
+request404804		average time is 81
+
+
+request404922		cost time is 79977
+request404922		send count is 1733
+request404922		average time is 46
+
+
+request401801		cost time is 59675
+request401801		send count is 1579
+request401801		average time is 37
+
+
+request404801		cost time is 52630
+request404801		send count is 50615
+request404801		average time is 1
+
+
+request404900		cost time is 38865
+request404900		send count is 1178
+request404900		average time is 32
+
+
+request404501		cost time is 31963
+request404501		send count is 151757
+request404501		average time is 0
+
+
+request404923		cost time is 26640
+request404923		send count is 690
+request404923		average time is 38
+
+
+request401013		cost time is 18958
+request401013		send count is 14
+request401013		average time is 1354
+
+
+request403104		cost time is 16112
+request403104		send count is 48442
+request403104		average time is 0
+
+
+request401011		cost time is 13604
+request401011		send count is 273
+request401011		average time is 49
+
+
+request405100		cost time is 9707
+request405100		send count is 44619
+request405100		average time is 0
+
+
+request401900		cost time is 8344
+request401900		send count is 667
+request401900		average time is 12
+
+
+request405101		cost time is 6002
+request405101		send count is 83
+request405101		average time is 72
+
+
+request401111		cost time is 4490
+request401111		send count is 287
+request401111		average time is 15
+
+
+request401901		cost time is 3994
+request401901		send count is 478
+request401901		average time is 8
+
+
+request404300		cost time is 3562
+request404300		send count is 48308
+request404300		average time is 0
+
+
+request404931		cost time is 3259
+request404931		send count is 147607
+request404931		average time is 0
+
+
+request403201		cost time is 3212
+request403201		send count is 28538
+request403201		average time is 0
+
+
+request401021		cost time is 3208
+request401021		send count is 128
+request401021		average time is 25
+
+
+request404504		cost time is 1047
+request404504		send count is 151
+request404504		average time is 6
+
+
+request404505		cost time is 863
+request404505		send count is 56
+request404505		average time is 15
+
+
+request402100		cost time is 732
+request402100		send count is 1101919
+request402100		average time is 0
+
+
+request403105		cost time is 624
+request403105		send count is 46
+request403105		average time is 13
+
+
+request403119		cost time is 440
+request403119		send count is 32
+request403119		average time is 13
+
+
+request402121		cost time is 407
+request402121		send count is 491570
+request402121		average time is 0
+
+
+request404702		cost time is 283
+request404702		send count is 7805
+request404702		average time is 0
+
+
+request402000		cost time is 186
+request402000		send count is 9
+request402000		average time is 20
+
+
+request404701		cost time is 155
+request404701		send count is 7805
+request404701		average time is 0
+
+
+request403200		cost time is 79
+request403200		send count is 510
+request403200		average time is 0
+
+
+request404601		cost time is 32
+request404601		send count is 2
+request404601		average time is 16
+
+
+request404805		cost time is 0
+request404805		send count is 4
+request404805		average time is 0
+
+
+request403117		cost time is 0
+request403117		send count is 32
+request403117		average time is 0
+
+
+request402125		cost time is 0
+request402125		send count is 587
+request402125		average time is 0
+
+
+request402119		cost time is 0
+request402119		send count is 530
+request402119		average time is 0
+
+
+request402118		cost time is 0
+request402118		send count is 528
+request402118		average time is 0
+
+
+request402106		cost time is 0
+request402106		send count is 530
+request402106		average time is 0
+
+
+request402105		cost time is 0
+request402105		send count is 528
+request402105		average time is 0
+
+
+request401902		cost time is 0
+request401902		send count is 3
+request401902		average time is 0
+
+
+
+
+
+
+
+Sort By Count:
+request402100		send count is 1101919
+request402100		cost time is 732
+request402100		average time is 0
+
+
+request401008		send count is 626380
+request401008		cost time is 44641829
+request401008		average time is 71
+
+
+request402121		send count is 491570
+request402121		cost time is 407
+request402121		average time is 0
+
+
+request402051		send count is 373194
+request402051		cost time is 50323689
+request402051		average time is 134
+
+
+request404503		send count is 327715
+request404503		cost time is 1130630
+request404503		average time is 3
+
+
+request403106		send count is 281331
+request403106		cost time is 2857517
+request403106		average time is 10
+
+
+request403112		send count is 280801
+request403112		cost time is 727419
+request403112		average time is 2
+
+
+request401004		send count is 256885
+request401004		cost time is 12750411
+request401004		average time is 49
+
+
+request403103		send count is 253299
+request403103		cost time is 604717
+request403103		average time is 2
+
+
+request401010		send count is 200533
+request401010		cost time is 4172766
+request401010		average time is 20
+
+
+request404502		send count is 151798
+request404502		cost time is 427843
+request404502		average time is 2
+
+
+request404501		send count is 151757
+request404501		cost time is 31963
+request404501		average time is 0
+
+
+request404931		send count is 147607
+request404931		cost time is 3259
+request404931		average time is 0
+
+
+request403100		send count is 76912
+request403100		cost time is 620425
+request403100		average time is 8
+
+
+request404803		send count is 67680
+request404803		cost time is 1262493
+request404803		average time is 18
+
+
+request402052		send count is 61620
+request402052		cost time is 2323185
+request402052		average time is 37
+
+
+request404801		send count is 50615
+request404801		cost time is 52630
+request404801		average time is 1
+
+
+request404903		send count is 50457
+request404903		cost time is 1005195
+request404903		average time is 19
+
+
+request403104		send count is 48442
+request403104		cost time is 16112
+request403104		average time is 0
+
+
+request404300		send count is 48308
+request404300		cost time is 3562
+request404300		average time is 0
+
+
+request401800		send count is 45712
+request401800		cost time is 351571
+request401800		average time is 7
+
+
+request401005		send count is 45527
+request401005		cost time is 1922847
+request401005		average time is 42
+
+
+request405100		send count is 44619
+request405100		cost time is 9707
+request405100		average time is 0
+
+
+request401006		send count is 36245
+request401006		cost time is 886017
+request401006		average time is 24
+
+
+request401007		send count is 35932
+request401007		cost time is 3806371
+request401007		average time is 105
+
+
+request404100		send count is 32022
+request404100		cost time is 514433
+request404100		average time is 16
+
+
+request404921		send count is 28788
+request404921		cost time is 728132
+request404921		average time is 25
+
+
+request403201		send count is 28538
+request403201		cost time is 3212
+request403201		average time is 0
+
+
+request404702		send count is 7805
+request404702		cost time is 283
+request404702		average time is 0
+
+
+request404701		send count is 7805
+request404701		cost time is 155
+request404701		average time is 0
+
+
+request401109		send count is 3348
+request401109		cost time is 99423
+request401109		average time is 29
+
+
+request402050		send count is 2667
+request402050		cost time is 188191
+request402050		average time is 70
+
+
+request404922		send count is 1733
+request404922		cost time is 79977
+request404922		average time is 46
+
+
+request401801		send count is 1579
+request401801		cost time is 59675
+request401801		average time is 37
+
+
+request404804		send count is 1207
+request404804		cost time is 98483
+request404804		average time is 81
+
+
+request404900		send count is 1178
+request404900		cost time is 38865
+request404900		average time is 32
+
+
+request404923		send count is 690
+request404923		cost time is 26640
+request404923		average time is 38
+
+
+request401900		send count is 667
+request401900		cost time is 8344
+request401900		average time is 12
+
+
+request402125		send count is 587
+request402125		cost time is 0
+request402125		average time is 0
+
+
+request402119		send count is 530
+request402119		cost time is 0
+request402119		average time is 0
+
+
+request402106		send count is 530
+request402106		cost time is 0
+request402106		average time is 0
+
+
+request402118		send count is 528
+request402118		cost time is 0
+request402118		average time is 0
+
+
+request402105		send count is 528
+request402105		cost time is 0
+request402105		average time is 0
+
+
+request403200		send count is 510
+request403200		cost time is 79
+request403200		average time is 0
+
+
+request401901		send count is 478
+request401901		cost time is 3994
+request401901		average time is 8
+
+
+request401111		send count is 287
+request401111		cost time is 4490
+request401111		average time is 15
+
+
+request401011		send count is 273
+request401011		cost time is 13604
+request401011		average time is 49
+
+
+request404504		send count is 151
+request404504		cost time is 1047
+request404504		average time is 6
+
+
+request401021		send count is 128
+request401021		cost time is 3208
+request401021		average time is 25
+
+
+request405101		send count is 83
+request405101		cost time is 6002
+request405101		average time is 72
+
+
+request404505		send count is 56
+request404505		cost time is 863
+request404505		average time is 15
+
+
+request403105		send count is 46
+request403105		cost time is 624
+request403105		average time is 13
+
+
+request403119		send count is 32
+request403119		cost time is 440
+request403119		average time is 13
+
+
+request403117		send count is 32
+request403117		cost time is 0
+request403117		average time is 0
+
+
+request401013		send count is 14
+request401013		cost time is 18958
+request401013		average time is 1354
+
+
+request402000		send count is 9
+request402000		cost time is 186
+request402000		average time is 20
+
+
+request404805		send count is 4
+request404805		cost time is 0
+request404805		average time is 0
+
+
+request401902		send count is 3
+request401902		cost time is 0
+request401902		average time is 0
+
+
+request404601		send count is 2
+request404601		cost time is 32
+request404601		average time is 16
+
+

@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  Simulation.cpp
+e:\wangcfgh\git_code\visual studio 2013 projects\analyzedump_hagd\simulation\simulation\simulation.cpp(15): warning C4018: “<”: 有符号/无符号不匹配
+  Simulation.vcxproj -> E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\AnalyzeDump_hagd\Simulation\Debug\Simulation.exe
+  Simulation.vcxproj -> E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\AnalyzeDump_hagd\Simulation\Debug\Simulation.pdb (Full PDB)

@@ -1,0 +1,6 @@
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\C_Plus_Class_Type\C_Plus_Class_Type\bin\Debug\C_Plus_Class_Type.exe.config
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\C_Plus_Class_Type\C_Plus_Class_Type\bin\Debug\C_Plus_Class_Type.exe
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\C_Plus_Class_Type\C_Plus_Class_Type\bin\Debug\C_Plus_Class_Type.pdb
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\C_Plus_Class_Type\C_Plus_Class_Type\obj\Debug\C_Plus_Class_Type.csprojResolveAssemblyReference.cache
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\C_Plus_Class_Type\C_Plus_Class_Type\obj\Debug\C_Plus_Class_Type.exe
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\C_Plus_Class_Type\C_Plus_Class_Type\obj\Debug\C_Plus_Class_Type.pdb

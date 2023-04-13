@@ -1,0 +1,6 @@
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\C_PlusDemo\C_PlusDemo\bin\Debug\C_PlusDemo.exe.config
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\C_PlusDemo\C_PlusDemo\bin\Debug\C_PlusDemo.exe
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\C_PlusDemo\C_PlusDemo\bin\Debug\C_PlusDemo.pdb
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\C_PlusDemo\C_PlusDemo\obj\Debug\C_PlusDemo.csprojResolveAssemblyReference.cache
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\C_PlusDemo\C_PlusDemo\obj\Debug\C_PlusDemo.exe
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\C_PlusDemo\C_PlusDemo\obj\Debug\C_PlusDemo.pdb

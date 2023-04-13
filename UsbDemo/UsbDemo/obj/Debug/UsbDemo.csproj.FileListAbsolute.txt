@@ -1,0 +1,6 @@
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\UsbDemo\UsbDemo\bin\Debug\UsbDemo.exe.config
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\UsbDemo\UsbDemo\bin\Debug\UsbDemo.exe
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\UsbDemo\UsbDemo\bin\Debug\UsbDemo.pdb
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\UsbDemo\UsbDemo\obj\Debug\UsbDemo.csprojResolveAssemblyReference.cache
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\UsbDemo\UsbDemo\obj\Debug\UsbDemo.exe
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\UsbDemo\UsbDemo\obj\Debug\UsbDemo.pdb

@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="SinglePattern">
+      <UniqueIdentifier>{d6429574-2732-4395-ad15-36492bc26a88}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FactoryPattern">
+      <UniqueIdentifier>{73e82213-96b8-40f7-b0dc-421bcd63e5ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ObserverPattern">
+      <UniqueIdentifier>{bae86db6-0a32-4b9c-96f2-6458be987ada}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="StrategyPattern">
+      <UniqueIdentifier>{4f9d1469-bb72-46b2-85a2-7a80d96b8cb0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ProtoTypePattern">
+      <UniqueIdentifier>{94c55752-5969-4c59-a2cf-7cfc082a4324}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AdapterPattern">
+      <UniqueIdentifier>{68f67742-9d6e-43cd-b35e-47938a955c10}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ProxyPattern">
+      <UniqueIdentifier>{875f2163-d3fe-4f8c-9aed-f241a62799b8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SinglePattern\SinglePattern.h">
+      <Filter>SinglePattern</Filter>
+    </ClInclude>
+    <ClInclude Include="FactoryPattern\FactoryPattern.h">
+      <Filter>FactoryPattern</Filter>
+    </ClInclude>
+    <ClInclude Include="ObserverPattern\ObserverPattern.h">
+      <Filter>ObserverPattern</Filter>
+    </ClInclude>
+    <ClInclude Include="StrategyPattern\StrategyPattern.h">
+      <Filter>StrategyPattern</Filter>
+    </ClInclude>
+    <ClInclude Include="ProtoTypePattern\ProtoTypePattern.h">
+      <Filter>ProtoTypePattern</Filter>
+    </ClInclude>
+    <ClInclude Include="AdapterPattern\AdapterPattern.h">
+      <Filter>AdapterPattern</Filter>
+    </ClInclude>
+    <ClInclude Include="ProxyPattern\ProxyPattern.h">
+      <Filter>ProxyPattern</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DesignPattern.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SinglePattern\SinglePattern.cpp">
+      <Filter>SinglePattern</Filter>
+    </ClCompile>
+    <ClCompile Include="FactoryPattern\FactoryPattern.cpp">
+      <Filter>FactoryPattern</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

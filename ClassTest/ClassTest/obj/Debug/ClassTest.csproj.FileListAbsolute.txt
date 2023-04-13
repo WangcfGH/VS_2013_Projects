@@ -1,0 +1,6 @@
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\ClassTest\ClassTest\bin\Debug\ClassTest.exe.config
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\ClassTest\ClassTest\bin\Debug\ClassTest.exe
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\ClassTest\ClassTest\bin\Debug\ClassTest.pdb
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\ClassTest\ClassTest\obj\Debug\ClassTest.csprojResolveAssemblyReference.cache
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\ClassTest\ClassTest\obj\Debug\ClassTest.exe
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\ClassTest\ClassTest\obj\Debug\ClassTest.pdb

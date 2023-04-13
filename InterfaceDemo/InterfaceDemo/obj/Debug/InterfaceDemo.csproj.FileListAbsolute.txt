@@ -1,0 +1,6 @@
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\InterfaceDemo\InterfaceDemo\bin\Debug\InterfaceDemo.exe.config
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.csprojResolveAssemblyReference.cache
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\InterfaceDemo\InterfaceDemo\bin\Debug\InterfaceDemo.exe
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\InterfaceDemo\InterfaceDemo\bin\Debug\InterfaceDemo.pdb
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.exe
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.pdb

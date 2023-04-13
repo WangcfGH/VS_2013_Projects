@@ -1,0 +1,6 @@
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\ExtendDemo\ExtendDemo\bin\Debug\ExtendDemo.exe.config
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\ExtendDemo\ExtendDemo\bin\Debug\ExtendDemo.exe
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\ExtendDemo\ExtendDemo\bin\Debug\ExtendDemo.pdb
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\ExtendDemo\ExtendDemo\obj\Debug\ExtendDemo.csprojResolveAssemblyReference.cache
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\ExtendDemo\ExtendDemo\obj\Debug\ExtendDemo.exe
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\ExtendDemo\ExtendDemo\obj\Debug\ExtendDemo.pdb

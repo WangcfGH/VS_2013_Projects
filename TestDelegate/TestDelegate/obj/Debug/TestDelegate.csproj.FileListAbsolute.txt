@@ -1,0 +1,5 @@
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\TestDelegate\TestDelegate\bin\Debug\TestDelegate.exe.config
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\TestDelegate\TestDelegate\bin\Debug\TestDelegate.exe
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\TestDelegate\TestDelegate\bin\Debug\TestDelegate.pdb
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\TestDelegate\TestDelegate\obj\Debug\TestDelegate.exe
+E:\WangcfGH\Git_Code\Visual Studio 2013 Projects\TestDelegate\TestDelegate\obj\Debug\TestDelegate.pdb
